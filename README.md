@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=atsushi101011)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=atsushi101011&count_private=true)
